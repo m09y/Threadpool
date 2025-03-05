@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 set (CMAKE_CXX_STANDARD 14)
 
-SET(PROJECTNAME "msapp")
+SET(PROJECTNAME "threadpool")
 project("${PROJECTNAME}" VERSION 0.1.0)
 
 
